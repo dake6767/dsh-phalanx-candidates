@@ -1,4 +1,7 @@
 {
   "schema": 1,
-  "candidate": null
+  "candidate": "run-42496851169",
+  "targetVersion": "0.1.32",
+  "commit": "37b6ec93514b8eba022e7972ad6f72622028e7a2",
+  "manifestSha256": "18204822e4fb98fed5768dd76f317a80ac1d4dcbab86f833efcfcc7dc66bbbe1"
 }
