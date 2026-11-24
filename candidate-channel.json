@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "candidate": "run-44903734051",
-  "targetVersion": "0.1.39",
-  "commit": "91b49d5f2026c3a6dd01214786fe6419cb34ea08",
-  "manifestSha256": "2843b05d25903a8c2027ad212e49a4efa0bbc8fa29feddece8b123289233a7e1"
+  "candidate": "run-45289329555",
+  "targetVersion": "0.1.40",
+  "commit": "24eecf979893e8045d13c3ea6693daaa71ca74fa",
+  "manifestSha256": "ac73cff1741c340d8d5a3ef8246d6beaee64f9b7aadbefefb40754e297ee70e1"
 }
